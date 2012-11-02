@@ -1,0 +1,26 @@
+2012-10-09 21:03:23,669 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-09 21:03:23,703 INFO com.ericsson.javatraining.xml.FromXML - The file :phonebook.xmlis not exists
+2012-10-09 21:03:23,703 INFO com.ericsson.javatraining.xml.FromXML - Createphonebook.xml...
+2012-10-09 21:16:33,442 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-09 21:49:35,293 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-09 22:25:59,492 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-09 22:31:10,489 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-12 18:49:33,325 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-13 12:46:02,901 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 19:15:55,531 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 19:17:20,909 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 19:19:15,445 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 19:20:35,240 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 20:35:21,973 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 20:36:01,396 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-14 21:35:47,079 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-30 20:43:16,586 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-30 20:45:08,235 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-10-30 21:06:22,311 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-01 16:15:58,681 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-01 16:23:28,563 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-01 16:27:21,133 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-01 16:30:27,011 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-02 10:07:36,290 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-02 10:39:09,002 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
+2012-11-02 10:55:23,529 INFO com.ericsson.javatraining.main.MainClass -  AddressBook application starting
